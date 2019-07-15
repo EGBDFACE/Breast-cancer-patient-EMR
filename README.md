@@ -3,7 +3,7 @@
 ## 1.introduction
 An electronic medical record system for breast cancer patients.
 
-http://www.elongevity.it/emr/
+http://www.elongevity.ai/emr/
 
 ## 2.feauture list
 - bar chart (zoom 、drag、tooltip)
